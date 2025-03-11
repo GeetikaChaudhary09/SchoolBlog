@@ -1,1 +1,1 @@
-creating a merge conflict
+ a merge conflict
