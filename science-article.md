@@ -1,1 +1,1 @@
-creating a merge conflict
+creating a merge conflict in new file 
